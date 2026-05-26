@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
+venv/
+.pytest_cache/
+.mypy_cache/
+*.onnx
+*.trt
+*.pt
